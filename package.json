@@ -1,0 +1,25 @@
+{
+  "name": "king-bot",
+  "version": "2.0.0",
+  "description": "Modified King Bot by Disha",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "king-bot"
+  ],
+  "author": "Disha",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "chokidar": "^5.0.0",
+    "file-type": "^18.0.0",
+    "form-data": "^4.0.5",
+    "MeowSub": "github:deveni0/ws",
+    "qs": "*",
+    "wa-sticker-formatter": "^4.3.2"
+  }
+}
